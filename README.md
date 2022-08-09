@@ -6,6 +6,6 @@
 `Backend.py` Retrives the data and sheds data it does not need.
 
 ### Bot adapt
-Is an example of it's use in discord.ext.commands
+Is an example of it's use in discord.ext.commands, the command was made in discord.py no ext so this is a port to ext.commands.
 
 ### This will not be worked in further by me unless people really want it.
